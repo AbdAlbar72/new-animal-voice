@@ -1,0 +1,34 @@
+body {
+    background-color: #96f021; 
+}
+
+#header_div {
+    background-color: #ffffff; 
+    color: #34a; 
+}
+
+#header_div p {
+    font-family: 'YourSelectedFont', sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 1.2em;
+}
+
+#main_div button {
+    font-family: 'YourSelectedFont', sans-serif; 
+    margin-top: 20px;
+    width: 200px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+#copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5a9ff; 
+    color: #dda7a7db; 
+    font-size: 0.8em;
+    line-height: 1.5;
+    text-shadow: 1px 1px 1px rgb(60, 222, 160);
+}
